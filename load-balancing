@@ -1,0 +1,6 @@
+we can implement load balancing on server with many way.
+
+1 cluser node module (if we will use cluster in our code so we have to use ROUND-ROBIN Algorithm)
+2. pm2 
+3. nginx
+4. Docker (if we will use docker load balancing so we have to include replicas in dpcker.composer.yml)
